@@ -99,3 +99,4 @@ C:\Users\User\Projekte\FizzBuzz\FizzBuzz.Test\obj\Debug\net9.0\refint\FizzBuzz.T
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz.Test\obj\Debug\net9.0\FizzBuzz.Test.pdb
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz.Test\obj\Debug\net9.0\FizzBuzz.Test.genruntimeconfig.cache
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz.Test\obj\Debug\net9.0\ref\FizzBuzz.Test.dll
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz.Test\obj\Debug\net9.0\FizzBuzz.Test.sourcelink.json

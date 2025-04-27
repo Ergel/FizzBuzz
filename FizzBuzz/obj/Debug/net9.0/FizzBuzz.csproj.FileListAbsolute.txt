@@ -9,3 +9,4 @@ C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.dll
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\refint\FizzBuzz.dll
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.pdb
 C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\ref\FizzBuzz.dll
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.sourcelink.json

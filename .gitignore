@@ -1,0 +1,19 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+
+# Ignore DLLs and executables
+*.dll
+*.exe
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore logs and temporary files
+*.log
+*.tmp
