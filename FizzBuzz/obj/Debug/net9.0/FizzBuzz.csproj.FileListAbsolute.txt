@@ -1,0 +1,11 @@
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\bin\Debug\net9.0\FizzBuzz.deps.json
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\bin\Debug\net9.0\FizzBuzz.dll
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\bin\Debug\net9.0\FizzBuzz.pdb
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.AssemblyInfo.cs
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.dll
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\refint\FizzBuzz.dll
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\FizzBuzz.pdb
+C:\Users\User\Projekte\FizzBuzz\FizzBuzz\obj\Debug\net9.0\ref\FizzBuzz.dll
